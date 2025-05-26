@@ -1,0 +1,1 @@
+export default function Mentores() { return <h2>Lista de Mentores</h2>; }

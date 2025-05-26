@@ -1,0 +1,1 @@
+export default function Home() { return <h1>Toda escada começa com um degrau.</h1>; }

@@ -1,0 +1,1 @@
+export default function SejaMentor() { return <h2>Formulário para ser mentor</h2>; }
